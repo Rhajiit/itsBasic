@@ -1,4 +1,4 @@
-# 너글닿기
+# 🚑너글닿기🚑
 
 ![image](https://github.com/Rhajiit/itsBasic/assets/155033024/3aded448-91f9-4ebc-97e1-2be06ac6a425)
 
